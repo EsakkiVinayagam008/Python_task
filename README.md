@@ -31,16 +31,12 @@ Note : Use 'continue' statement.
 
 </p>
 <h3>Task 7 :</h3>
-<p>Write a Python program to get the Fibonacci series between 0 to 50 
+<p>Write a Python program to get the Fibonacci series between 0 to 50 .
 </p>
 <h3>Task 8 :</h3>
 <p>Write a Python program which iterates the integers from 1 to 50. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".</p>
 <h3>Task 9 :</h3>
-<p>Write a Python program that accepts a string and calculate the number of digits and letters 
-Sample Data : Python 3.2
-Expected Output :
-Letters 6
-Digits 2
+<p>Write a Python program that accepts a string and calculate the number of digits and letters.
 </p>
 <h3>Task 10 :</h3>
 <p>Write a Python program to check the validity of password input by users.  Validation :</p>
